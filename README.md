@@ -23,6 +23,3 @@ This project is a deep dive into the **core fundamentals of Node.js**, written f
 ✅ Package Management (npm)
 
 ---
-
-## 📁 Folder Structure
-
